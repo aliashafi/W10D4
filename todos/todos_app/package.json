@@ -23,9 +23,9 @@
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
     "thunk": "0.0.1",
-    "webpack": "^4.39.3"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
-    "webpack-cli": "^3.3.7"
+    "webpack-cli": "^5.0.1"
   }
 }
